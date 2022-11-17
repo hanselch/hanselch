@@ -20,7 +20,7 @@ Thanks to my Intro to Linux class I am better understanding the use of Git and G
 
 As of now I am learning **C++** from both by myself and classes ( since it is a requirement )
 
-I am also learning the newly opened static page framework [**Astro**](https://github.com/astronomer/astro-cli)
+I am also learning the newly opened static page framework [**Astro**](https://github.com/withastro/astro)
 
 ---
 
