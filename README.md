@@ -1,6 +1,6 @@
-proud 🇸🇻 salvadoran!
-
 Hello 👋, I am an aspiring programmer and cyber security analyst, currently studying said professions at CNM. As of now, me and a friend are practicing our coding and collaborative skills to better understand ourselves and other job-related stuff!
+
+Check out my old git profile, I have more projects WAY back using Github... https://github.com/tardiobscurus
 
 ---
 
